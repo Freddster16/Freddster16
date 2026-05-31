@@ -1,8 +1,8 @@
 # Hi, I'm Freddster
 
-Puerto Rico | vibecoding, AI tools, native macOS apps, CLI utilities, and practical developer products
+Puerto Rico | vibecoding, backend development, AI engineering, native macOS apps, and CLI tools
 
-I am into vibecoding: using AI agents to move fast, explore ideas, and turn real workflows into software you can run, install, and improve. Lately I have been focused on local-first apps, AI-assisted workflows, Swift menu bar tools, and Python command-line projects.
+I am currently studying backend development and AI engineering. I am also into vibecoding: using AI agents to move fast, explore ideas, and turn real workflows into software you can run, install, and improve.
 
 [![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white)](https://www.swift.org/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -47,6 +47,7 @@ I am into vibecoding: using AI agents to move fast, explore ideas, and turn real
 
 ## What I'm Doing
 
+- Studying backend development and AI engineering.
 - Building portfolio-ready products that normal people can install.
 - Learning the full shipping path: app design, local privacy, packaging, releases, and Homebrew distribution.
 - Vibecoding with AI agents while keeping the output honest, tested, and understandable.
