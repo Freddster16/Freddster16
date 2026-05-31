@@ -20,21 +20,30 @@ I build small, useful software that turns a real workflow into something you can
 
 ## Current Projects
 
-### macOS And Native Apps
+### AI, macOS, And Native Apps
 
-- [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Local resume/job-post analysis, document import, grounded suggestions, and Homebrew distribution.
-- [DoneLoop](https://github.com/Freddster16/DoneLoop) - A Swift productivity app for visualizing rhythm, habits, and priorities.
+- [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Local resume/job-post analysis, document import, grounded suggestions, Homebrew distribution, and a real release path.
+- [DoneLoop](https://github.com/Freddster16/DoneLoop) - Swift habit and task manager with contribution grids, rhythm tracking, and an Eisenhower matrix.
+- Deskpick - Private Swift desktop experiment while it is still being shaped.
 
-### CLI Tools And Learning Systems
+### CLI Utilities
 
 - [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls GitHub user activity into a clean terminal view.
 - [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Tracks tasks without needing a full app.
-- [Bookbot](https://github.com/Freddster16/bookbot) - Python text analysis for novels and character usage.
+
+### Shipping And Distribution
+
+- [Homebrew Tap](https://github.com/Freddster16/homebrew-tap) - The tap behind `brew install --cask Freddster16/tap/job-application-agent`.
+- [Freddster16 Profile](https://github.com/Freddster16/Freddster16) - This profile README, kept as a living map of what I am building.
+
+### Learning Labs
+
+- [Bookbot](https://github.com/Freddster16/bookbot) - Python text analysis for novels, word counts, and character usage.
+- [webflyx](https://github.com/Freddster16/webflyx) - Git and workflow practice project.
 
 ### Games And Experiments
 
 - [Asteroid](https://github.com/Freddster16/asteroid) - A Python take on the classic Asteroids game.
-- [webflyx](https://github.com/Freddster16/webflyx) - Git and workflow practice project.
 
 ## What I'm Doing
 
