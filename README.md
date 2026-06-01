@@ -22,6 +22,13 @@ I am currently studying backend development and AI engineering. I am also into v
       <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg" alt="Codex" width="28" height="28" />
     </picture>
   </a>
+  &nbsp;
+  <a href="https://openai.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/dark.svg">
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/light.svg" alt="OpenAI" width="28" height="28" />
+    </picture>
+  </a>
 </p>
 
 ## Start Here
