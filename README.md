@@ -11,32 +11,32 @@ I am currently studying backend development and AI engineering. I am also into v
 
 ## Start Here
 
-- [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Native macOS menu bar app for honest job application tailoring.
-- [DoneLoop](https://github.com/Freddster16/DoneLoop) - Habit and task manager with contribution grids and an Eisenhower matrix.
-- [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent GitHub activity.
-- [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Simple task management from the terminal.
+- 🧠 [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Native macOS menu bar app for honest job application tailoring.
+- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - Habit and task manager with contribution grids and an Eisenhower matrix.
+- 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent GitHub activity.
+- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Simple task management from the terminal.
 
 ## Current Projects
 
 ### AI, macOS, And Native Apps
 
-- [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Local resume/job-post analysis, document import, grounded suggestions, and a real release path.
-- [DoneLoop](https://github.com/Freddster16/DoneLoop) - Swift habit and task manager with contribution grids, rhythm tracking, and an Eisenhower matrix.
-- Deskpick - Private Swift desktop experiment while it is still being shaped.
+- 🧠 [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Local resume/job-post analysis, document import, grounded suggestions, and a real release path.
+- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - Swift habit and task manager with contribution grids, rhythm tracking, and an Eisenhower matrix.
+- 🖥️ Deskpick - Private Swift desktop experiment while it is still being shaped.
 
 ### CLI Utilities
 
-- [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls GitHub user activity into a clean terminal view.
-- [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Tracks tasks without needing a full app.
+- 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls GitHub user activity into a clean terminal view.
+- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Tracks tasks without needing a full app.
 
 ### Learning Labs
 
-- [Bookbot](https://github.com/Freddster16/bookbot) - Python text analysis for novels, word counts, and character usage.
-- [webflyx](https://github.com/Freddster16/webflyx) - Git and workflow practice project.
+- 📚 [Bookbot](https://github.com/Freddster16/bookbot) - Python text analysis for novels, word counts, and character usage.
+- 🧪 [webflyx](https://github.com/Freddster16/webflyx) - Git and workflow practice project.
 
 ### Games And Experiments
 
-- [Asteroid](https://github.com/Freddster16/asteroid) - A Python take on the classic Asteroids game.
+- 🚀 [Asteroid](https://github.com/Freddster16/asteroid) - A Python take on the classic Asteroids game.
 
 ## What I'm Doing
 
