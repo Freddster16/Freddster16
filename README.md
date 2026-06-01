@@ -11,7 +11,7 @@ I am currently studying backend development and AI engineering. I am also into v
   &nbsp;
   <a href="https://developer.apple.com/macos/"><img src="assets/apple.svg" alt="macOS" width="28" height="28" /></a>
   &nbsp;
-  <a href="https://github.com/Freddster16"><img src="assets/github.svg" alt="GitHub" width="28" height="28" /></a>
+  <a href="https://openai.com/codex/"><img src="assets/codex.svg" alt="Codex" width="28" height="28" /></a>
 </p>
 
 ## Start Here
@@ -57,8 +57,6 @@ I am currently studying backend development and AI engineering. I am also into v
 ## Connect
 
 <p>
-  <a href="https://github.com/Freddster16"><img src="assets/github.svg" alt="GitHub" width="28" height="28" /></a>
-  &nbsp;
   <a href="https://linkedin.com/in/freddy-rosa16"><img src="assets/linkedin.svg" alt="LinkedIn" width="28" height="28" /></a>
   &nbsp;
   <a href="https://x.com/freddsster16"><img src="assets/x.svg" alt="X" width="28" height="28" /></a>
