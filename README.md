@@ -51,6 +51,10 @@ I am currently studying backend development and AI engineering. I am also into v
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Freddster16-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Freddster16)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Freddy%20Rosa-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/freddy-rosa16)
-[![X](https://img.shields.io/badge/X-@freddsster16-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/freddsster16)
+<p>
+  <a href="https://github.com/Freddster16"><img src="assets/github.svg" alt="GitHub" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/freddy-rosa16"><img src="assets/linkedin.svg" alt="LinkedIn" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://x.com/freddsster16"><img src="assets/x.svg" alt="X" width="28" height="28" /></a>
+</p>
