@@ -4,10 +4,15 @@ Puerto Rico | vibecoding, backend development, AI engineering, native macOS apps
 
 I am currently studying backend development and AI engineering. I am also into vibecoding: using AI agents to move fast, explore ideas, and turn real workflows into software you can run, install, and improve.
 
-[![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white)](https://www.swift.org/)
-[![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/macos/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Freddster16)
+<p>
+  <a href="https://www.swift.org/"><img src="assets/swift.svg" alt="Swift" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://www.python.org/"><img src="assets/python.svg" alt="Python" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://developer.apple.com/macos/"><img src="assets/apple.svg" alt="macOS" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://github.com/Freddster16"><img src="assets/github.svg" alt="GitHub" width="28" height="28" /></a>
+</p>
 
 ## Start Here
 
