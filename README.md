@@ -5,13 +5,13 @@ Puerto Rico | vibecoding, backend development, AI engineering, native macOS apps
 I am currently studying backend development and AI engineering. I am also into vibecoding: using AI agents to move fast, explore ideas, and turn real workflows into software you can run, install, and improve.
 
 <p>
-  <a href="https://www.swift.org/"><img src="assets/swift.svg" alt="Swift" width="28" height="28" /></a>
+  <a href="https://www.swift.org/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/swift/default.svg" alt="Swift" width="28" height="28" /></a>
   &nbsp;
-  <a href="https://www.python.org/"><img src="assets/python.svg" alt="Python" width="28" height="28" /></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" alt="Python" width="28" height="28" /></a>
   &nbsp;
-  <a href="https://developer.apple.com/macos/"><img src="assets/apple.svg" alt="macOS" width="28" height="28" /></a>
+  <a href="https://developer.apple.com/macos/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/light.svg" alt="macOS" width="28" height="28" /></a>
   &nbsp;
-  <a href="https://openai.com/codex/"><img src="assets/codex.svg" alt="Codex" width="28" height="28" /></a>
+  <a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg" alt="Codex" width="28" height="28" /></a>
 </p>
 
 ## Start Here
@@ -57,7 +57,7 @@ I am currently studying backend development and AI engineering. I am also into v
 ## Connect
 
 <p>
-  <a href="https://linkedin.com/in/freddy-rosa16"><img src="assets/linkedin.svg" alt="LinkedIn" width="28" height="28" /></a>
+  <a href="https://linkedin.com/in/freddy-rosa16"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg" alt="LinkedIn" width="28" height="28" /></a>
   &nbsp;
-  <a href="https://x.com/freddsster16"><img src="assets/x.svg" alt="X" width="28" height="28" /></a>
+  <a href="https://x.com/freddsster16"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/x/default.svg" alt="X" width="28" height="28" /></a>
 </p>
