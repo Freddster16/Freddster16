@@ -9,9 +9,19 @@ I am currently studying backend development and AI engineering. I am also into v
   &nbsp;
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" alt="Python" width="28" height="28" /></a>
   &nbsp;
-  <a href="https://developer.apple.com/macos/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/light.svg" alt="macOS" width="28" height="28" /></a>
+  <a href="https://developer.apple.com/macos/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/dark.svg">
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/light.svg" alt="macOS" width="28" height="28" />
+    </picture>
+  </a>
   &nbsp;
-  <a href="https://openai.com/codex/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg" alt="Codex" width="28" height="28" /></a>
+  <a href="https://openai.com/codex/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/dark.svg">
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg" alt="Codex" width="28" height="28" />
+    </picture>
+  </a>
 </p>
 
 ## Start Here
@@ -59,5 +69,5 @@ I am currently studying backend development and AI engineering. I am also into v
 <p>
   <a href="https://linkedin.com/in/freddy-rosa16"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg" alt="LinkedIn" width="28" height="28" /></a>
   &nbsp;
-  <a href="https://x.com/freddsster16"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/x/default.svg" alt="X" width="28" height="28" /></a>
+  <a href="https://x.com/freddsster16"><img src="assets/x.svg" alt="X" width="28" height="28" /></a>
 </p>
