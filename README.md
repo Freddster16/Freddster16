@@ -11,7 +11,7 @@ I am currently studying backend development and AI engineering. I am also into v
 
 ## Start Here
 
-- 🧠 [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Native macOS menu bar app for honest job application tailoring.
+- 🧠 [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - AI-assisted tool for honest job application tailoring.
 - ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - Habit and task manager with contribution grids and an Eisenhower matrix.
 - 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent GitHub activity.
 - 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Simple task management from the terminal.
