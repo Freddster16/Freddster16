@@ -33,6 +33,7 @@ I am currently studying backend development and AI engineering. I am also into v
 
 ## Start Here
 
+- 📊 [LLM Meter](https://github.com/Freddster16/LLM-Meter) - Native macOS dashboard for local LLM usage, spend, and quota analytics.
 - 🧠 [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - AI-assisted tool for honest job application tailoring.
 - ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - Habit and task manager with contribution grids and an Eisenhower matrix.
 - 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent GitHub activity.
@@ -42,6 +43,7 @@ I am currently studying backend development and AI engineering. I am also into v
 
 ### AI Tools
 
+- 📊 [LLM Meter](https://github.com/Freddster16/LLM-Meter) - Local-first SwiftUI app that captures Codex, Hermes, and OpenCode usage, groups shared model limits, and graphs spend/quota health.
 - 🧠 [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Local resume/job-post analysis, document import, grounded suggestions, and a real release path.
 
 ### macOS And Native Apps
