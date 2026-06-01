@@ -18,9 +18,12 @@ I am currently studying backend development and AI engineering. I am also into v
 
 ## Current Projects
 
-### AI, macOS, And Native Apps
+### AI Tools
 
 - 🧠 [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Local resume/job-post analysis, document import, grounded suggestions, and a real release path.
+
+### macOS And Native Apps
+
 - ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - Swift habit and task manager with contribution grids, rhythm tracking, and an Eisenhower matrix.
 - 🖥️ Deskpick - Private Swift desktop experiment while it is still being shaped.
 
