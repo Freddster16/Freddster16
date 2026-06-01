@@ -7,7 +7,6 @@ I am currently studying backend development and AI engineering. I am also into v
 [![Swift](https://img.shields.io/badge/Swift-f05138?style=flat-square&logo=swift&logoColor=white)](https://www.swift.org/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/macos/)
-[![Homebrew](https://img.shields.io/badge/Homebrew-fbb040?style=flat-square&logo=homebrew&logoColor=111111)](https://brew.sh/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Freddster16)
 
 ## Start Here
@@ -16,13 +15,12 @@ I am currently studying backend development and AI engineering. I am also into v
 - [DoneLoop](https://github.com/Freddster16/DoneLoop) - Habit and task manager with contribution grids and an Eisenhower matrix.
 - [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent GitHub activity.
 - [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Simple task management from the terminal.
-- [Homebrew Tap](https://github.com/Freddster16/homebrew-tap) - Casks and formulas for shipping my tools.
 
 ## Current Projects
 
 ### AI, macOS, And Native Apps
 
-- [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Local resume/job-post analysis, document import, grounded suggestions, Homebrew distribution, and a real release path.
+- [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Local resume/job-post analysis, document import, grounded suggestions, and a real release path.
 - [DoneLoop](https://github.com/Freddster16/DoneLoop) - Swift habit and task manager with contribution grids, rhythm tracking, and an Eisenhower matrix.
 - Deskpick - Private Swift desktop experiment while it is still being shaped.
 
@@ -30,11 +28,6 @@ I am currently studying backend development and AI engineering. I am also into v
 
 - [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls GitHub user activity into a clean terminal view.
 - [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Tracks tasks without needing a full app.
-
-### Shipping And Distribution
-
-- [Homebrew Tap](https://github.com/Freddster16/homebrew-tap) - The tap behind `brew install --cask Freddster16/tap/job-application-agent`.
-- [Freddster16 Profile](https://github.com/Freddster16/Freddster16) - This profile README, kept as a living map of what I am building.
 
 ### Learning Labs
 
@@ -49,7 +42,7 @@ I am currently studying backend development and AI engineering. I am also into v
 
 - Studying backend development and AI engineering.
 - Building portfolio-ready products that normal people can install.
-- Learning the full shipping path: app design, local privacy, packaging, releases, and Homebrew distribution.
+- Learning the full shipping path: app design, local privacy, packaging, releases, and clear installation.
 - Vibecoding with AI agents while keeping the output honest, tested, and understandable.
 - Turning small ideas into real repos with docs, tests, and a clear install story.
 
