@@ -49,10 +49,6 @@ I am currently studying backend development and AI engineering. I am also into v
 - Vibecoding with AI agents while keeping the output honest, tested, and understandable.
 - Turning small ideas into real repos with docs, tests, and a clear install story.
 
-## GitHub Stats
-
-![Freddster16 GitHub stats](https://github-readme-stats.vercel.app/api?username=Freddster16&show_icons=true&hide_border=true&hide_title=true)
-
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Freddster16-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Freddster16)
