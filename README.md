@@ -38,16 +38,31 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 - Python CLI projects that teach backend fundamentals one repo at a time.
 - Small tools with real install, run, and documentation paths.
 
-## Public Projects
+## Start Here
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [DoneLoop](https://github.com/Freddster16/DoneLoop) | Habit and task manager with contribution grids, priority planning, widgets, and CloudKit sync. | SwiftUI, SwiftData, CloudKit |
-| [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) | Local JSON-backed task manager for adding, listing, updating, filtering, and completing tasks from the terminal. | Python |
-| [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) | Simple CLI that reads recent GitHub public activity and prints a clean terminal summary. | Python, GitHub API |
-| [Asteroid](https://github.com/Freddster16/asteroid) | Pygame arcade experiment with movement, collision, asteroid splitting, and JSONL game logs. | Python, Pygame |
-| [BookBot](https://github.com/Freddster16/bookbot) | Text analysis CLI that counts words and character frequency from book files. | Python |
-| [webflyx](https://github.com/Freddster16/webflyx) | Git and content workflow practice repository from the Boot.dev path. | Git, Markdown |
+- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - Habit and task manager with contribution grids, priority planning, widgets, and CloudKit sync.
+- 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent public GitHub activity.
+- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Simple local task management from the terminal.
+
+## Current Projects
+
+### Native Apps
+
+- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - SwiftUI habit and task manager with rhythm tracking, contribution grids, and priority planning.
+
+### CLI Utilities
+
+- 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls public GitHub activity into a clean terminal view.
+- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Tracks tasks in a local JSON file without needing a full app.
+
+### Learning Labs
+
+- 📚 [BookBot](https://github.com/Freddster16/bookbot) - Python text analysis for books, word counts, and character frequency.
+- 🧪 [webflyx](https://github.com/Freddster16/webflyx) - Git and content workflow practice project from the Boot.dev path.
+
+### Games And Experiments
+
+- 🚀 [Asteroid](https://github.com/Freddster16/asteroid) - A Python/Pygame take on the classic Asteroids arcade game.
 
 ## Learning Path
 
