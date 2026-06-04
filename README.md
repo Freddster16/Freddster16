@@ -1,8 +1,8 @@
 # Hi, I'm Freddster
 
-Puerto Rico | vibecoding, backend development, AI engineering, native macOS apps, and CLI tools
+Puerto Rico-based builder learning backend development, AI engineering, native Apple apps, and practical command-line tools.
 
-I am currently studying backend development and AI engineering. I am also into vibecoding: using AI agents to move fast, explore ideas, and turn real workflows into software you can run, install, and improve.
+I like turning small ideas into software you can run, inspect, and improve. Lately that means learning in public, building with AI agents, and keeping the output understandable instead of treating generated code like magic.
 
 <p>
   <a href="https://www.swift.org/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/swift/default.svg" alt="Swift" width="28" height="28" /></a>
@@ -12,7 +12,7 @@ I am currently studying backend development and AI engineering. I am also into v
   <a href="https://developer.apple.com/macos/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/dark.svg">
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/light.svg" alt="macOS" width="28" height="28" />
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apple/light.svg" alt="Apple Platforms" width="28" height="28" />
     </picture>
   </a>
   &nbsp;
@@ -31,47 +31,30 @@ I am currently studying backend development and AI engineering. I am also into v
   </a>
 </p>
 
-## Start Here
+## What I'm Focused On
 
-- 📊 [LLM Meter](https://github.com/Freddster16/LLM-Meter) - Native macOS dashboard for local LLM usage, spend, and quota analytics.
-- 🧠 [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - AI-assisted tool for honest job application tailoring.
-- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - Habit and task manager with contribution grids and an Eisenhower matrix.
-- 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent GitHub activity.
-- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Simple task management from the terminal.
+- AI-assisted developer workflows that stay local, inspectable, and human-reviewed.
+- SwiftUI apps with clear product thinking and native platform feel.
+- Python CLI projects that teach backend fundamentals one repo at a time.
+- Small tools with real install, run, and documentation paths.
 
-## Current Projects
+## Public Projects
 
-### AI Tools
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [DoneLoop](https://github.com/Freddster16/DoneLoop) | Habit and task manager with contribution grids, priority planning, widgets, and CloudKit sync. | SwiftUI, SwiftData, CloudKit |
+| [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) | Local JSON-backed task manager for adding, listing, updating, filtering, and completing tasks from the terminal. | Python |
+| [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) | Simple CLI that reads recent GitHub public activity and prints a clean terminal summary. | Python, GitHub API |
+| [Asteroid](https://github.com/Freddster16/asteroid) | Pygame arcade experiment with movement, collision, asteroid splitting, and JSONL game logs. | Python, Pygame |
+| [BookBot](https://github.com/Freddster16/bookbot) | Text analysis CLI that counts words and character frequency from book files. | Python |
+| [webflyx](https://github.com/Freddster16/webflyx) | Git and content workflow practice repository from the Boot.dev path. | Git, Markdown |
 
-- 📊 [LLM Meter](https://github.com/Freddster16/LLM-Meter) - Local-first SwiftUI app that captures Codex, Hermes, and OpenCode usage, groups shared model limits, and graphs spend/quota health.
-- 🧠 [AI Job Application Assistant](https://github.com/Freddster16/job-application-agent) - Local resume/job-post analysis, document import, grounded suggestions, and a real release path.
+## Learning Path
 
-### macOS And Native Apps
-
-- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - Swift habit and task manager with contribution grids, rhythm tracking, and an Eisenhower matrix.
-- 🖥️ Deskpick - Private Swift desktop experiment while it is still being shaped.
-
-### CLI Utilities
-
-- 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls GitHub user activity into a clean terminal view.
-- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Tracks tasks without needing a full app.
-
-### Learning Labs
-
-- 📚 [Bookbot](https://github.com/Freddster16/bookbot) - Python text analysis for novels, word counts, and character usage.
-- 🧪 [webflyx](https://github.com/Freddster16/webflyx) - Git and workflow practice project.
-
-### Games And Experiments
-
-- 🚀 [Asteroid](https://github.com/Freddster16/asteroid) - A Python take on the classic Asteroids game.
-
-## What I'm Doing
-
-- Studying backend development and AI engineering.
-- Building portfolio-ready products that normal people can install.
-- Learning the full shipping path: app design, local privacy, packaging, releases, and clear installation.
-- Vibecoding with AI agents while keeping the output honest, tested, and understandable.
-- Turning small ideas into real repos with docs, tests, and a clear install story.
+- Backend fundamentals through Boot.dev and small CLI projects.
+- AI agent patterns through local experiments and CodeCrafters-style challenges.
+- Native app shipping through SwiftUI, CloudKit, WidgetKit, and macOS/iOS tooling.
+- Better docs, tests, and release habits with every repo.
 
 ## Connect
 
