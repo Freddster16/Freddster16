@@ -7,7 +7,21 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 <p>
   <a href="https://www.swift.org/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/swift/default.svg" alt="Swift" width="28" height="28" /></a>
   &nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/typescript/default.svg" alt="TypeScript" width="28" height="28" /></a>
+  &nbsp;
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" alt="Python" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/go/default.svg" alt="Go" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/react/default.svg" alt="React" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://vite.dev/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vite/default.svg" alt="Vite" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://supabase.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/supabase/default.svg" alt="Supabase" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" alt="Git" width="28" height="28" /></a>
+  &nbsp;
+  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/github/dark.svg" alt="GitHub" width="28" height="28" /></a>
   &nbsp;
   <a href="https://developer.apple.com/macos/">
     <picture>
@@ -40,20 +54,22 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 
 ## Start Here
 
+- 📬 [clibox](https://github.com/Freddster16/clibox) - Keyboard-first terminal email app with inbox, reader, compose, reply, search, archive, themes, and native auth helpers.
 - ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - Habit and task manager with contribution grids, priority planning, widgets, and CloudKit sync.
 - 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent public GitHub activity.
 - 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Simple local task management from the terminal.
 
 ## Current Projects
 
+### Developer Tools
+
+- 📬 [clibox](https://github.com/Freddster16/clibox) - Terminal mail client for people who live in a shell, tmux session, or editor.
+- 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls public GitHub activity into a clean terminal view.
+- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Tracks tasks in a local JSON file without needing a full app.
+
 ### Native Apps
 
 - ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - SwiftUI habit and task manager with rhythm tracking, contribution grids, and priority planning.
-
-### CLI Utilities
-
-- 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls public GitHub activity into a clean terminal view.
-- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Tracks tasks in a local JSON file without needing a full app.
 
 ### Learning Labs
 
