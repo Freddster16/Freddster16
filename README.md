@@ -47,19 +47,20 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 
 ## What I'm Focused On
 
-- AI-assisted developer workflows that stay local, inspectable, and human-reviewed.
-- SwiftUI apps with clear product thinking and native platform feel.
-- Python CLI projects that teach backend fundamentals one repo at a time.
-- Small tools with real install, run, and documentation paths.
+- Building terminal and local-first tools that feel fast, inspectable, and useful.
+- Shipping SwiftUI apps with clear product thinking and native platform feel.
+- Practicing backend fundamentals through small Python projects and CLI workflows.
+- Learning AI-agent patterns while keeping generated code reviewed and understandable.
 
-## Start Here
+## Working On Now
 
-- 📬 [clibox](https://github.com/Freddster16/clibox) - Keyboard-first terminal email app with inbox, reader, compose, reply, search, archive, themes, and native auth helpers.
-- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - Habit and task manager with contribution grids, priority planning, widgets, and CloudKit sync.
+- 📬 [clibox](https://github.com/Freddster16/clibox) - Keyboard-first terminal email app with inbox, reader, compose, reply, search, archive, themes, installer flow, and native auth helpers.
+- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - iOS habit and task manager with contribution grids, priority planning, widgets, App Intents, CloudKit sync, and data export.
+- 🧠 AI-agent experiments - Private prototypes around local coding agents, repo inspection, tool use, and human-reviewed workflows.
 - 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent public GitHub activity.
-- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Simple local task management from the terminal.
+- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Python CLI for local JSON-backed task tracking.
 
-## Current Projects
+## Project Shelf
 
 ### Developer Tools
 
@@ -69,16 +70,17 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 
 ### Native Apps
 
-- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - SwiftUI habit and task manager with rhythm tracking, contribution grids, and priority planning.
+- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - SwiftUI habit and task manager with rhythm tracking, contribution grids, widgets, and priority planning.
 
 ### Learning Labs
 
 - 📚 [BookBot](https://github.com/Freddster16/bookbot) - Python text analysis for books, word counts, and character frequency.
 - 🧪 [webflyx](https://github.com/Freddster16/webflyx) - Git and content workflow practice project from the Boot.dev path.
+- 🏢 [megacorp](https://github.com/Freddster16/megacorp) - Boot.dev Git 2 practice repo for deeper Git workflows.
 
 ### Games And Experiments
 
-- 🚀 [Asteroid](https://github.com/Freddster16/asteroid) - A Python/Pygame take on the classic Asteroids arcade game.
+- 🚀 [Asteroid](https://github.com/Freddster16/asteroid) - A Python/Pygame take on the classic Asteroids arcade game, with game-state and event logging for debugging.
 
 ## Learning Path
 
