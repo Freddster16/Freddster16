@@ -54,9 +54,10 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 
 ## Working On Now
 
+- 🔁 LoopX - Private local-first proof OS for AI coding agents, focused on goals, gates, evidence, repair loops, BuildProof pages, and native Workbench workflows.
 - 📬 [clibox](https://github.com/Freddster16/clibox) - Keyboard-first terminal email app with inbox, reader, compose, reply, search, archive, themes, installer flow, and native auth helpers.
 - ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - iOS habit and task manager with contribution grids, priority planning, widgets, App Intents, CloudKit sync, and data export.
-- 🧠 AI-agent experiments - Private prototypes around local coding agents, repo inspection, tool use, and human-reviewed workflows.
+- ⏱️ Ergio - Private iPhone-first SwiftUI focus timer for calm work sessions, scenic timers, saved setups, and gentle posture, eye, and movement break reminders.
 - 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent public GitHub activity.
 - 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Python CLI for local JSON-backed task tracking.
 
@@ -64,6 +65,7 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 
 ### Developer Tools
 
+- 🔁 LoopX - Private local-first proof system for AI-agent coding workflows, evidence capture, verifier-owned gates, and release validation.
 - 📬 [clibox](https://github.com/Freddster16/clibox) - Terminal mail client for people who live in a shell, tmux session, or editor.
 - 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls public GitHub activity into a clean terminal view.
 - 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Tracks tasks in a local JSON file without needing a full app.
@@ -71,6 +73,7 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 ### Native Apps
 
 - ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - SwiftUI habit and task manager with rhythm tracking, contribution grids, widgets, and priority planning.
+- ⏱️ Ergio - Private SwiftUI focus timer with reviewed focus presets, session history, local notifications, and privacy-first break reminders.
 
 ### Learning Labs
 
