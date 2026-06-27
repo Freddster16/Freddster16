@@ -56,10 +56,11 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 
 - 🔁 LoopX - Private local-first proof OS for AI coding agents, focused on goals, gates, evidence, repair loops, BuildProof pages, and native Workbench workflows.
 - 📬 [clibox](https://github.com/Freddster16/clibox) - Keyboard-first terminal email app with inbox, reader, compose, reply, search, archive, themes, installer flow, and native auth helpers.
+- 🐍 [openpandora](https://github.com/Freddster16/openpandora) - AI agent workflow with CI/CD, testing, and modern Python packaging.
+- 🎯 [job-tracker](https://github.com/Freddster16/job-tracker) - CLI tool to track job applications, filter by status, and view search pipeline stats.
 - ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - iOS habit and task manager with contribution grids, priority planning, widgets, App Intents, CloudKit sync, and data export.
 - ⏱️ Ergio - Private iPhone-first SwiftUI focus timer for calm work sessions, scenic timers, saved setups, and gentle posture, eye, and movement break reminders.
 - 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent public GitHub activity.
-- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Python CLI for local JSON-backed task tracking.
 
 ## Project Shelf
 
@@ -67,8 +68,9 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 
 - 🔁 LoopX - Private local-first proof system for AI-agent coding workflows, evidence capture, verifier-owned gates, and release validation.
 - 📬 [clibox](https://github.com/Freddster16/clibox) - Terminal mail client for people who live in a shell, tmux session, or editor.
+- 🐍 [openpandora](https://github.com/Freddster16/openpandora) - AI agent workflow with CI/CD, testing, and modern Python packaging.
+- 🎯 [job-tracker](https://github.com/Freddster16/job-tracker) - CLI tool to track job applications, filter by status, and view search pipeline stats.
 - 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls public GitHub activity into a clean terminal view.
-- 📝 [Task Tracker CLI](https://github.com/Freddster16/task_tracker_cli) - Tracks tasks in a local JSON file without needing a full app.
 
 ### Native Apps
 
@@ -79,7 +81,6 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 
 - 📚 [BookBot](https://github.com/Freddster16/bookbot) - Python text analysis for books, word counts, and character frequency.
 - 🧪 [webflyx](https://github.com/Freddster16/webflyx) - Git and content workflow practice project from the Boot.dev path.
-- 🏢 [megacorp](https://github.com/Freddster16/megacorp) - Boot.dev Git 2 practice repo for deeper Git workflows.
 
 ### Games And Experiments
 
