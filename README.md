@@ -61,7 +61,7 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 - 🤖 [ai_agent](https://github.com/Freddster16/ai_agent) - Gemini-powered command-line agent experiment for learning tool-calling patterns and scoped filesystem helpers.
 - 🎯 [job-tracker](https://github.com/Freddster16/job-tracker) - CLI tool to track job applications, filter by status, and view search pipeline stats.
 - ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - iOS habit and task manager with contribution grids, priority planning, widgets, App Intents, CloudKit sync, and data export.
-- ⏱️ Ergio - Private iPhone-first SwiftUI focus timer for calm work sessions, scenic timers, saved setups, and gentle posture, eye, and movement break reminders.
+- ⏱️ [ergio](https://github.com/Freddster16/ergio) - iPhone-first SwiftUI focus timer for calm work sessions, scenic timers, saved setups, and gentle posture, eye, and movement break reminders.
 - 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent public GitHub activity.
 
 ## Project Shelf
@@ -82,7 +82,7 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 ### Native Apps
 
 - ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - SwiftUI habit and task manager with rhythm tracking, contribution grids, widgets, and priority planning.
-- ⏱️ Ergio - Private SwiftUI focus timer with reviewed focus presets, session history, local notifications, and privacy-first break reminders.
+- ⏱️ [ergio](https://github.com/Freddster16/ergio) - SwiftUI focus timer with reviewed focus presets, session history, local notifications, and privacy-first break reminders.
 
 ### Learning Labs
 
