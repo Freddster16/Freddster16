@@ -58,7 +58,7 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 - 🖥️ Deskpick - Private Vite + React desk setup fit builder for placing real gear, checking layout collisions, and sharing setup links before buying.
 - 📬 [clibox](https://github.com/Freddster16/clibox) - Keyboard-first terminal email app with inbox, reader, compose, reply, search, archive, themes, installer flow, and native auth helpers.
 - 🐍 [openpandora](https://github.com/Freddster16/openpandora) - AI agent workflow with CI/CD, testing, and modern Python packaging.
-- 🤖 AI Agent - Private Gemini-powered command-line agent experiment for learning tool-calling patterns and scoped filesystem helpers.
+- 🤖 [ai_agent](https://github.com/Freddster16/ai_agent) - Gemini-powered command-line agent experiment for learning tool-calling patterns and scoped filesystem helpers.
 - 🎯 [job-tracker](https://github.com/Freddster16/job-tracker) - CLI tool to track job applications, filter by status, and view search pipeline stats.
 - ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - iOS habit and task manager with contribution grids, priority planning, widgets, App Intents, CloudKit sync, and data export.
 - ⏱️ Ergio - Private iPhone-first SwiftUI focus timer for calm work sessions, scenic timers, saved setups, and gentle posture, eye, and movement break reminders.
@@ -71,7 +71,7 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 - 🔁 LoopX - Private local-first proof system for AI-agent coding workflows, evidence capture, verifier-owned gates, and release validation.
 - 📬 [clibox](https://github.com/Freddster16/clibox) - Terminal mail client for people who live in a shell, tmux session, or editor.
 - 🐍 [openpandora](https://github.com/Freddster16/openpandora) - AI agent workflow with CI/CD, testing, and modern Python packaging.
-- 🤖 AI Agent - Private Gemini-powered command-line agent experiment with guarded filesystem helpers, token metadata, and a path toward tool-calling loops.
+- 🤖 [ai_agent](https://github.com/Freddster16/ai_agent) - Gemini-powered command-line agent experiment with Gemini function calling, guarded filesystem helpers, and tool-calling loops.
 - 🎯 [job-tracker](https://github.com/Freddster16/job-tracker) - CLI tool to track job applications, filter by status, and view search pipeline stats.
 - 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls public GitHub activity into a clean terminal view.
 
@@ -86,6 +86,7 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 
 ### Learning Labs
 
+- 🤖 [ai_agent](https://github.com/Freddster16/ai_agent) - Gemini-powered command-line agent exploring function-calling patterns and sandboxed filesystem operations.
 - 📚 [BookBot](https://github.com/Freddster16/bookbot) - Python text analysis for books, word counts, and character frequency.
 - 🧪 [webflyx](https://github.com/Freddster16/webflyx) - Git and content workflow practice project from the Boot.dev path.
 
