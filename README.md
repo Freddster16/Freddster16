@@ -1,4 +1,4 @@
-# Hi, I'm Freddster
+# Hi, I'm Freddy Rosa
 
 Puerto Rico-based builder learning backend development, AI engineering, native Apple apps, and practical command-line tools.
 
@@ -56,24 +56,24 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 
 - 🔁 LoopX - Private local-first proof OS for AI coding agents, focused on goals, gates, evidence, repair loops, BuildProof pages, and native Workbench workflows.
 - 🖥️ Deskpick - Private Vite + React desk setup fit builder for placing real gear, checking layout collisions, and sharing setup links before buying.
-- 📬 [clibox](https://github.com/Freddster16/clibox) - Keyboard-first terminal email app with inbox, reader, compose, reply, search, archive, themes, installer flow, and native auth helpers.
-- 🐍 [openpandora](https://github.com/Freddster16/openpandora) - AI agent workflow with CI/CD, testing, and modern Python packaging.
-- 🤖 [ai_agent](https://github.com/Freddster16/ai_agent) - Gemini-powered command-line agent experiment for learning tool-calling patterns and scoped filesystem helpers.
-- 🎯 [job-tracker](https://github.com/Freddster16/job-tracker) - CLI tool to track job applications, filter by status, and view search pipeline stats.
-- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - iOS habit and task manager with contribution grids, priority planning, widgets, App Intents, CloudKit sync, and data export.
-- ⏱️ [ergio](https://github.com/Freddster16/ergio) - iPhone-first SwiftUI focus timer for calm work sessions, scenic timers, saved setups, and gentle posture, eye, and movement break reminders.
-- 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Command-line tool for reading recent public GitHub activity.
+- 📬 [clibox](https://github.com/freddyrosa16/clibox) - Keyboard-first terminal email app with inbox, reader, compose, reply, search, archive, themes, installer flow, and native auth helpers.
+- 🐍 [openpandora](https://github.com/freddyrosa16/openpandora) - AI agent workflow with CI/CD, testing, and modern Python packaging.
+- 🤖 [ai_agent](https://github.com/freddyrosa16/ai_agent) - Gemini-powered command-line agent experiment for learning tool-calling patterns and scoped filesystem helpers.
+- 🎯 [job-tracker](https://github.com/freddyrosa16/job-tracker) - CLI tool to track job applications, filter by status, and view search pipeline stats.
+- ✅ [DoneLoop](https://github.com/freddyrosa16/DoneLoop) - iOS habit and task manager with contribution grids, priority planning, widgets, App Intents, CloudKit sync, and data export.
+- ⏱️ [ergio](https://github.com/freddyrosa16/ergio) - iPhone-first SwiftUI focus timer for calm work sessions, scenic timers, saved setups, and gentle posture, eye, and movement break reminders.
+- 🐙 [GitHub Activity CLI](https://github.com/freddyrosa16/github-activity-cli) - Command-line tool for reading recent public GitHub activity.
 
 ## Project Shelf
 
 ### Developer Tools
 
 - 🔁 LoopX - Private local-first proof system for AI-agent coding workflows, evidence capture, verifier-owned gates, and release validation.
-- 📬 [clibox](https://github.com/Freddster16/clibox) - Terminal mail client for people who live in a shell, tmux session, or editor.
-- 🐍 [openpandora](https://github.com/Freddster16/openpandora) - AI agent workflow with CI/CD, testing, and modern Python packaging.
-- 🤖 [ai_agent](https://github.com/Freddster16/ai_agent) - Gemini-powered command-line agent experiment with Gemini function calling, guarded filesystem helpers, and tool-calling loops.
-- 🎯 [job-tracker](https://github.com/Freddster16/job-tracker) - CLI tool to track job applications, filter by status, and view search pipeline stats.
-- 🐙 [GitHub Activity CLI](https://github.com/Freddster16/github-activity-cli) - Pulls public GitHub activity into a clean terminal view.
+- 📬 [clibox](https://github.com/freddyrosa16/clibox) - Terminal mail client for people who live in a shell, tmux session, or editor.
+- 🐍 [openpandora](https://github.com/freddyrosa16/openpandora) - AI agent workflow with CI/CD, testing, and modern Python packaging.
+- 🤖 [ai_agent](https://github.com/freddyrosa16/ai_agent) - Gemini-powered command-line agent experiment with Gemini function calling, guarded filesystem helpers, and tool-calling loops.
+- 🎯 [job-tracker](https://github.com/freddyrosa16/job-tracker) - CLI tool to track job applications, filter by status, and view search pipeline stats.
+- 🐙 [GitHub Activity CLI](https://github.com/freddyrosa16/github-activity-cli) - Pulls public GitHub activity into a clean terminal view.
 
 ### Web Apps
 
@@ -81,18 +81,18 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 
 ### Native Apps
 
-- ✅ [DoneLoop](https://github.com/Freddster16/DoneLoop) - SwiftUI habit and task manager with rhythm tracking, contribution grids, widgets, and priority planning.
-- ⏱️ [ergio](https://github.com/Freddster16/ergio) - SwiftUI focus timer with reviewed focus presets, session history, local notifications, and privacy-first break reminders.
+- ✅ [DoneLoop](https://github.com/freddyrosa16/DoneLoop) - SwiftUI habit and task manager with rhythm tracking, contribution grids, widgets, and priority planning.
+- ⏱️ [ergio](https://github.com/freddyrosa16/ergio) - SwiftUI focus timer with reviewed focus presets, session history, local notifications, and privacy-first break reminders.
 
 ### Learning Labs
 
-- 🤖 [ai_agent](https://github.com/Freddster16/ai_agent) - Gemini-powered command-line agent exploring function-calling patterns and sandboxed filesystem operations.
-- 📚 [BookBot](https://github.com/Freddster16/bookbot) - Python text analysis for books, word counts, and character frequency.
-- 🧪 [webflyx](https://github.com/Freddster16/webflyx) - Git and content workflow practice project from the Boot.dev path.
+- 🤖 [ai_agent](https://github.com/freddyrosa16/ai_agent) - Gemini-powered command-line agent exploring function-calling patterns and sandboxed filesystem operations.
+- 📚 [BookBot](https://github.com/freddyrosa16/bookbot) - Python text analysis for books, word counts, and character frequency.
+- 🧪 [webflyx](https://github.com/freddyrosa16/webflyx) - Git and content workflow practice project from the Boot.dev path.
 
 ### Games And Experiments
 
-- 🚀 [Asteroid](https://github.com/Freddster16/asteroid) - A Python/Pygame take on the classic Asteroids arcade game, with game-state and event logging for debugging.
+- 🚀 [Asteroid](https://github.com/freddyrosa16/asteroid) - A Python/Pygame take on the classic Asteroids arcade game, with game-state and event logging for debugging.
 
 ## Learning Path
 
@@ -104,7 +104,7 @@ I like turning small ideas into software you can run, inspect, and improve. Late
 ## Connect
 
 <p>
-  <a href="https://linkedin.com/in/freddy-rosa16"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg" alt="LinkedIn" width="28" height="28" /></a>
+  <a href="https://linkedin.com/in/freddyrosa16"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg" alt="LinkedIn" width="28" height="28" /></a>
   &nbsp;
   <a href="https://x.com/freddsster16"><img src="assets/x.svg" alt="X" width="28" height="28" /></a>
 </p>
